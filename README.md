@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrasadBaviskar12
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning RAIT
+- 🌱 I’m currently learning MSc Electronics Engineering at University of Southampton 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
